@@ -1,7 +1,7 @@
 # config/config.py
 
 # Telegram Bot Token
-TELEGRAM_BOT_TOKEN = "7524419921:AAFL56trNhxut4RJR1yEI6DQJzae_CxQtBA"
+TELEGRAM_BOT_TOKEN = "TELEGRAM_TOKEN"
 
 # File paths
 TEXT_FILE_PATH = r"/home/groove/ftp/upload/echobot/stoik.txt"
